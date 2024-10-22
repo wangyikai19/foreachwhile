@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\foreachwhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DEF2C3-F761-430F-9988-BD3983254219}|foreachwhile\\foreachwhile.csproj|c:\\users\\hp\\desktop\\foreachwhile\\foreachwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DEF2C3-F761-430F-9988-BD3983254219}|foreachwhile\\foreachwhile.csproj|solutionrelative:foreachwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\foreachwhile\\foreachwhile\\Program.cs",
+              "RelativeDocumentMoniker": "foreachwhile\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\foreachwhile\\foreachwhile\\Program.cs",
+              "RelativeToolTip": "foreachwhile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:57:12.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
